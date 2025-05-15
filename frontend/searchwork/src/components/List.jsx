@@ -81,7 +81,7 @@ const List = () => {
             <div style={{ marginBottom: '20px' }}>
                 <label>Сортування: </label>
                 <select className={"select-dropdown"} value={sortMode} onChange={handleSortChange}>
-                    <option value="ai">AI-сортировка(тест)</option>
+                    <option value="ai">AI-сортування(тест)</option>
                     <option value="default">По даті</option>
                 </select>
             </div>
