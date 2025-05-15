@@ -1,0 +1,42 @@
+{
+  "name": "searchwork",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Search engine for job vacancies",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "keywords": ["search", "jobs", "react", "vite"],
+  "author": {
+    "name" : "Aliiev Omar",
+    "email": "ipz221_aoe@student.ztu.edu.ua"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlievOmar7729/SearchWork-API-Ranked.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlievOmar7729/SearchWork-API-Ranked/issues"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.5",
+    "react": "^19.1.0",
+    "react-cookie-consent": "^9.0.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react-swc": "^3.9.0",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "vite": "^6.3.5"
+  }
+}

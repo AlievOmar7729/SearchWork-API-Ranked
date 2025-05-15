@@ -1,0 +1,90 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f9;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+#vacancy-details,
+.resume-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  transition: transform 0.2s ease;
+}
+
+.resume-card:hover {
+  transform: translateY(-3px);
+}
+
+#vacancy-details p,
+.resume-card p {
+  margin: 8px 0;
+}
+
+button {
+  padding: 10px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 10px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.resume-progress-container {
+  background-color: #e0e0e0;
+  height: 6px;
+  border-radius: 5px;
+  margin-top: 12px;
+  overflow: hidden;
+}
+
+.resume-progress-bar {
+  background-color: darkgreen;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.resume-score {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #444;
+}
+
+.select-dropdown {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #fefefe;
+  font-size: 16px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.select-dropdown:hover {
+  border-color: #888;
+}
+
+.select-dropdown:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
