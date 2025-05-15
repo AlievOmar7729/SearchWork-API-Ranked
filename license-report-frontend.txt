@@ -1,0 +1,42 @@
+├─ js-cookie@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/js-cookie/js-cookie
+│  ├─ publisher: Klaus Hartl
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-cookie-consent\node_modules\js-cookie
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-cookie-consent\node_modules\js-cookie\LICENSE
+├─ js-cookie@3.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/js-cookie/js-cookie
+│  ├─ publisher: Klaus Hartl
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\js-cookie
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\js-cookie\LICENSE
+├─ react-cookie-consent@9.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Mastermindzh/react-cookie-consent
+│  ├─ publisher: Rick van Lieshout
+│  ├─ email: info@rickvanlieshout.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-cookie-consent
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-cookie-consent\LICENSE
+├─ react-dom@19.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-dom
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react-dom\LICENSE
+├─ react@19.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\react\LICENSE
+├─ scheduler@0.26.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\scheduler
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\node_modules\scheduler\LICENSE
+└─ searchwork@1.0.0
+   ├─ licenses: MIT
+   ├─ private: true
+   ├─ repository: https://github.com/AlievOmar7729/SearchWork-API-Ranked
+   ├─ publisher: Aliiev Omar
+   ├─ email: ipz221_aoe@student.ztu.edu.ua
+   ├─ path: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork
+   └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\frontend\searchwork\README.md

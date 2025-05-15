@@ -1,0 +1,979 @@
+├─ @mongodb-js/saslprep@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mongodb-js/devtools-shared
+│  ├─ publisher: Dmitry Tsvettsikh
+│  ├─ email: me@reklatsmasters.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@mongodb-js\saslprep
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@mongodb-js\saslprep\LICENSE
+├─ @redis/bloom@1.2.0
+│  ├─ licenses: MIT
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\bloom
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\bloom\README.md
+├─ @redis/client@1.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\client
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\client\README.md
+├─ @redis/graph@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\graph
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\graph\README.md
+├─ @redis/json@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\json
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\json\README.md
+├─ @redis/search@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\search
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\search\README.md
+├─ @redis/time-series@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\time-series
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@redis\time-series\README.md
+├─ @types/webidl-conversions@7.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@types\webidl-conversions
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@types\webidl-conversions\LICENSE
+├─ @types/whatwg-url@11.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@types\whatwg-url
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\@types\whatwg-url\LICENSE
+├─ accepts@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\accepts
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\accepts\LICENSE
+├─ afinn-165-financialmarketnews@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/theryan722/afinn-165-financialmarketnews
+│  ├─ publisher: Ryan O'Day
+│  ├─ email: romanguy722@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\afinn-165-financialmarketnews
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\afinn-165-financialmarketnews\license
+├─ afinn-165@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/words/afinn-165
+│  ├─ publisher: Titus Wormer
+│  ├─ email: tituswormer@gmail.com
+│  ├─ url: https://wooorm.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\afinn-165
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\afinn-165\license
+├─ ansi-styles@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ansi-styles
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ansi-styles\license
+├─ apparatus@0.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NaturalNode/apparatus
+│  ├─ publisher: Chris Umbel
+│  ├─ email: chris@chrisumbel.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\apparatus
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\apparatus\LICENSE.txt
+├─ async@3.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ publisher: Caolan McMahon
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\async
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\async\LICENSE
+├─ backend@1.0.0
+│  ├─ licenses: MIT
+│  ├─ publisher: Aliiev Omar
+│  ├─ email: ipz221_aoe@student.ztu.edu.ua
+│  └─ path: G:\3 курс\II сем\StandartAndDoc\backend
+├─ basic-auth@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/basic-auth
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\basic-auth
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\basic-auth\LICENSE
+├─ body-parser@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/body-parser
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\body-parser
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\body-parser\LICENSE
+├─ bson@6.10.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/js-bson
+│  ├─ publisher: The MongoDB NodeJS Team
+│  ├─ email: dbx-node@mongodb.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\bson
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\bson\LICENSE.md
+├─ bytes@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\bytes
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\bytes\LICENSE
+├─ call-bind-apply-helpers@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind-apply-helpers
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\call-bind-apply-helpers
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\call-bind-apply-helpers\LICENSE
+├─ call-bound@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bound
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\call-bound
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\call-bound\LICENSE
+├─ chalk@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\chalk
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\chalk\license
+├─ cluster-key-slot@1.1.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Salakar/cluster-key-slot
+│  ├─ publisher: Mike Diarmid
+│  ├─ email: mike.diarmid@gmail.com
+│  ├─ url: http://github.com/Salakar/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cluster-key-slot
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cluster-key-slot\LICENSE
+├─ color-convert@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qix-/color-convert
+│  ├─ publisher: Heather Arthur
+│  ├─ email: fayearthur@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\color-convert
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\color-convert\LICENSE
+├─ color-name@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/colorjs/color-name
+│  ├─ publisher: DY
+│  ├─ email: dfcreative@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\color-name
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\color-name\LICENSE
+├─ content-disposition@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\content-disposition
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\content-disposition\LICENSE
+├─ content-type@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\content-type
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\content-type\LICENSE
+├─ cookie-signature@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-cookie-signature
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@learnboost.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cookie-signature
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cookie-signature\LICENSE
+├─ cookie@0.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cookie
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cookie\LICENSE
+├─ cors@2.8.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/cors
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: https://github.com/troygoode/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cors
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\cors\LICENSE
+├─ corser@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/agrueneberg/Corser
+│  ├─ publisher: Alexander Grüneberg
+│  ├─ email: alexander.grueneberg@googlemail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\corser
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\corser\LICENSE
+├─ debug@4.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/debug-js/debug
+│  ├─ publisher: Josh Junon
+│  ├─ url: https://github.com/qix-
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\debug
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\debug\LICENSE
+├─ depd@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\depd
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\depd\LICENSE
+├─ dotenv@16.5.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\dotenv
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\dotenv\LICENSE
+├─ dunder-proto@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/dunder-proto
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\dunder-proto
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\dunder-proto\LICENSE
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ee-first
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ee-first\LICENSE
+├─ encodeurl@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\encodeurl
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\encodeurl\LICENSE
+├─ es-define-property@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-define-property
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-define-property
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-define-property\LICENSE
+├─ es-errors@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-errors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-errors
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-errors\LICENSE
+├─ es-object-atoms@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-object-atoms
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-object-atoms
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\es-object-atoms\LICENSE
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\escape-html
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\escape-html\LICENSE
+├─ etag@1.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/etag
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\etag
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\etag\LICENSE
+├─ eventemitter3@4.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/primus/eventemitter3
+│  ├─ publisher: Arnout Kazemier
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\eventemitter3
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\eventemitter3\LICENSE
+├─ express@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/express
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\express
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\express\LICENSE
+├─ finalhandler@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/finalhandler
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\finalhandler
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\finalhandler\LICENSE
+├─ follow-redirects@1.15.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/follow-redirects/follow-redirects
+│  ├─ publisher: Ruben Verborgh
+│  ├─ email: ruben@verborgh.org
+│  ├─ url: https://ruben.verborgh.org/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\follow-redirects
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\follow-redirects\LICENSE
+├─ forwarded@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/forwarded
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\forwarded
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\forwarded\LICENSE
+├─ fresh@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\fresh
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\fresh\LICENSE
+├─ function-bind@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\function-bind
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\function-bind\LICENSE
+├─ generic-pool@3.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/coopernurse/node-pool
+│  ├─ publisher: James Cooper
+│  ├─ email: james@bitmechanic.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\generic-pool
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\generic-pool\README.md
+├─ get-intrinsic@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\get-intrinsic
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\get-intrinsic\LICENSE
+├─ get-proto@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-proto
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\get-proto
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\get-proto\LICENSE
+├─ gopd@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/gopd
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\gopd
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\gopd\LICENSE
+├─ has-flag@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\has-flag
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\has-flag\license
+├─ has-symbols@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\has-symbols
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\has-symbols\LICENSE
+├─ hasown@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/hasOwn
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\hasown
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\hasown\LICENSE
+├─ he@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/he
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\he
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\he\LICENSE-MIT.txt
+├─ html-encoding-sniffer@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/html-encoding-sniffer
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\html-encoding-sniffer
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\html-encoding-sniffer\LICENSE.txt
+├─ http-errors@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-errors
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-errors\LICENSE
+├─ http-proxy@1.18.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/http-party/node-http-proxy
+│  ├─ publisher: Charlie Robbins
+│  ├─ email: charlie.robbins@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-proxy
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-proxy\LICENSE
+├─ http-server@14.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/http-party/http-server
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-server
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\http-server\LICENSE
+├─ iconv-lite@0.6.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\iconv-lite
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\iconv-lite\LICENSE
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\inherits
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\inherits\LICENSE
+├─ ipaddr.js@1.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/whitequark/ipaddr.js
+│  ├─ publisher: whitequark
+│  ├─ email: whitequark@whitequark.org
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ipaddr.js
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ipaddr.js\LICENSE
+├─ is-promise@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/then/is-promise
+│  ├─ publisher: ForbesLindesay
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\is-promise
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\is-promise\LICENSE
+├─ kareem@2.6.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongoosejs/kareem
+│  ├─ publisher: Valeri Karpov
+│  ├─ email: val@karpov.io
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\kareem
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\kareem\LICENSE
+├─ math-intrinsics@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/math-intrinsics
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\math-intrinsics
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\math-intrinsics\LICENSE
+├─ media-typer@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\media-typer
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\media-typer\LICENSE
+├─ memjs@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/memcachier/memjs
+│  ├─ publisher: Amit Levy
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\memjs
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\memjs\LICENSE
+├─ memory-pager@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/memory-pager
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\memory-pager
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\memory-pager\LICENSE
+├─ merge-descriptors@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/merge-descriptors
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\merge-descriptors
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\merge-descriptors\license
+├─ mime-db@1.54.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime-db
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime-db\LICENSE
+├─ mime-types@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime-types
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime-types\LICENSE
+├─ mime@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mime\LICENSE
+├─ minimist@1.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/minimistjs/minimist
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\minimist
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\minimist\LICENSE
+├─ mongodb-connection-string-url@3.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb-js/mongodb-connection-string-url
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongodb-connection-string-url
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongodb-connection-string-url\LICENSE
+├─ mongodb@6.16.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/node-mongodb-native
+│  ├─ publisher: The MongoDB NodeJS Team
+│  ├─ email: dbx-node@mongodb.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongodb
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongodb\LICENSE.md
+├─ mongoose@8.14.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Automattic/mongoose
+│  ├─ publisher: Guillermo Rauch
+│  ├─ email: guillermo@learnboost.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongoose
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mongoose\LICENSE.md
+├─ mpath@0.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aheckmann/mpath
+│  ├─ publisher: Aaron Heckmann
+│  ├─ email: aaron.heckmann+github@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mpath
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mpath\LICENSE
+├─ mquery@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aheckmann/mquery
+│  ├─ publisher: Aaron Heckmann
+│  ├─ email: aaron.heckmann+github@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mquery
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\mquery\LICENSE
+├─ ms@2.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/ms
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ms
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\ms\license.md
+├─ natural@8.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NaturalNode/natural
+│  ├─ publisher: Chris Umbel
+│  ├─ email: chris@chrisumbel.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\natural
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\natural\LICENSE.txt
+├─ negotiator@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\negotiator
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\negotiator\LICENSE
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\object-assign
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\object-assign\license
+├─ object-inspect@1.13.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/object-inspect
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\object-inspect
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\object-inspect\LICENSE
+├─ on-finished@2.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\on-finished
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\on-finished\LICENSE
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\once
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\once\LICENSE
+├─ opener@1.5.2
+│  ├─ licenses: (WTFPL OR MIT)
+│  ├─ repository: https://github.com/domenic/opener
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\opener
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\opener\LICENSE.txt
+├─ parseurl@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\parseurl
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\parseurl\LICENSE
+├─ path-to-regexp@8.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/path-to-regexp
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\path-to-regexp
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\path-to-regexp\LICENSE
+├─ pg-cloudflare@1.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-cloudflare
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-cloudflare\LICENSE
+├─ pg-connection-string@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Blaine Bublitz
+│  ├─ email: blaine@iceddev.com
+│  ├─ url: http://iceddev.com/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-connection-string
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-connection-string\LICENSE
+├─ pg-int8@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/charmander/pg-int8
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-int8
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-int8\LICENSE
+├─ pg-pool@3.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Brian M. Carlson
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-pool
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-pool\LICENSE
+├─ pg-protocol@1.10.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-protocol
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-protocol\LICENSE
+├─ pg-types@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-pg-types
+│  ├─ publisher: Brian M. Carlson
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-types
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg-types\README.md
+├─ pg@8.16.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Brian Carlson
+│  ├─ email: brian.m.carlson@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pg\LICENSE
+├─ pgpass@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hoegaarden/pgpass
+│  ├─ publisher: Hannes Hörl
+│  ├─ email: hannes.hoerl+pgpass@snowreporter.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pgpass
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\pgpass\README.md
+├─ portfinder@1.0.37
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/http-party/node-portfinder
+│  ├─ publisher: Charlie Robbins
+│  ├─ email: charlie.robbins@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\portfinder
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\portfinder\LICENSE
+├─ postgres-array@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-array
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-array
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-array\license
+├─ postgres-bytea@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-bytea
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-bytea
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-bytea\license
+├─ postgres-date@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-date
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-date
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-date\license
+├─ postgres-interval@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-interval
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-interval
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\postgres-interval\license
+├─ proxy-addr@2.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/proxy-addr
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\proxy-addr
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\proxy-addr\LICENSE
+├─ punycode@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/punycode.js
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\punycode
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\punycode\LICENSE-MIT.txt
+├─ qs@6.14.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\qs
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\qs\LICENSE.md
+├─ range-parser@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/range-parser
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\range-parser
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\range-parser\LICENSE
+├─ raw-body@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/raw-body
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\raw-body
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\raw-body\LICENSE
+├─ redis@4.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/redis/node-redis
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\redis
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\redis\LICENSE
+├─ requires-port@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unshiftio/requires-port
+│  ├─ publisher: Arnout Kazemier
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\requires-port
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\requires-port\LICENSE
+├─ router@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/router
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\router
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\router\LICENSE
+├─ safe-buffer@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: http://feross.org
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\basic-auth\node_modules\safe-buffer
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\basic-auth\node_modules\safe-buffer\LICENSE
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safe-buffer
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safe-buffer\LICENSE
+├─ safe-stable-stringify@2.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/BridgeAR/safe-stable-stringify
+│  ├─ publisher: Ruben Bridgewater
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safe-stable-stringify
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safe-stable-stringify\LICENSE
+├─ safer-buffer@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ChALkeR/safer-buffer
+│  ├─ publisher: Nikita Skovoroda
+│  ├─ email: chalkerx@gmail.com
+│  ├─ url: https://github.com/ChALkeR
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safer-buffer
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\safer-buffer\LICENSE
+├─ secure-compare@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vdemedes/secure-compare
+│  ├─ publisher: Vadim Demedes
+│  ├─ email: vdemedes@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\secure-compare
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\secure-compare\README.md
+├─ send@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/send
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\send
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\send\LICENSE
+├─ serve-static@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-static
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\serve-static
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\serve-static\LICENSE
+├─ setprototypeof@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ publisher: Wes Todd
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\setprototypeof
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\setprototypeof\LICENSE
+├─ side-channel-list@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel-list
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-list
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-list\LICENSE
+├─ side-channel-map@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel-map
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-map
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-map\LICENSE
+├─ side-channel-weakmap@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel-weakmap
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-weakmap
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel-weakmap\LICENSE
+├─ side-channel@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\side-channel\LICENSE
+├─ sift@17.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crcn/sift.js
+│  ├─ publisher: Craig Condon
+│  ├─ email: craig.j.condon@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sift
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sift\README.md
+├─ sparse-bitfield@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/sparse-bitfield
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sparse-bitfield
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sparse-bitfield\LICENSE
+├─ split2@4.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mcollina/split2
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\split2
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\split2\LICENSE
+├─ statuses@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\statuses
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\statuses\LICENSE
+├─ stopwords-iso@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stopwords-iso/stopwords-iso
+│  ├─ publisher: Gene Diaz
+│  ├─ email: genediazjr@gmail.com
+│  ├─ url: http://genediazjr.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\stopwords-iso
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\stopwords-iso\README.md
+├─ supports-color@7.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\supports-color
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\supports-color\license
+├─ sylvester@0.0.12
+│  ├─ licenses: MIT*
+│  ├─ publisher: Chris Umbel
+│  ├─ email: chris@chrisumbel.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sylvester
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\sylvester\LICENSE.txt
+├─ toidentifier@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/toidentifier
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\toidentifier
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\toidentifier\LICENSE
+├─ tr46@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/tr46
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\tr46
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\tr46\LICENSE.md
+├─ type-is@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\type-is
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\type-is\LICENSE
+├─ underscore@1.13.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jashkenas/underscore
+│  ├─ publisher: Jeremy Ashkenas
+│  ├─ email: jeremy@documentcloud.org
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\underscore
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\underscore\LICENSE
+├─ union@0.5.0
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/flatiron/union
+│  ├─ publisher: Charlie Robbins
+│  ├─ email: charlie.robbins@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\union
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\union\LICENSE
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\unpipe
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\unpipe\LICENSE
+├─ url-join@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jfromaniello/url-join
+│  ├─ publisher: José F. Romaniello
+│  ├─ email: jfromaniello@gmail.com
+│  ├─ url: http://joseoncode.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\url-join
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\url-join\LICENSE
+├─ uuid@9.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/uuidjs/uuid
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\uuid
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\uuid\LICENSE.md
+├─ vary@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\vary
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\vary\LICENSE
+├─ webidl-conversions@7.0.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\webidl-conversions
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\webidl-conversions\LICENSE.md
+├─ whatwg-encoding@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-encoding
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\whatwg-encoding
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\whatwg-encoding\LICENSE.txt
+├─ whatwg-url@14.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\whatwg-url
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\whatwg-url\LICENSE.txt
+├─ wordnet-db@3.1.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moos/wordnet-db
+│  ├─ publisher: Moos
+│  ├─ email: mooster@42at.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\wordnet-db
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\wordnet-db\LICENSE
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\wrappy
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\wrappy\LICENSE
+├─ xtend@4.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\xtend
+│  └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\xtend\LICENSE
+└─ yallist@4.0.0
+   ├─ licenses: ISC
+   ├─ repository: https://github.com/isaacs/yallist
+   ├─ publisher: Isaac Z. Schlueter
+   ├─ email: i@izs.me
+   ├─ url: http://blog.izs.me/
+   ├─ path: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\yallist
+   └─ licenseFile: G:\3 курс\II сем\StandartAndDoc\backend\node_modules\yallist\LICENSE
