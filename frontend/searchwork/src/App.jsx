@@ -6,10 +6,10 @@ const App = () => {
 
     const cookieConsent = Cookies.get("cookieConsent");
     const hasConsent = cookieConsent && cookieConsent !== "declined";
-
+    const shouldShow = !cookieConsent || cookieConsent === "declined";
     return (
         <div>
-            {!cookieConsent && (
+            {shouldShow && (
                 <CookieConsent
                     location="bottom"
                     buttonText="Прийняти"
@@ -30,6 +30,7 @@ const App = () => {
                         marginLeft: "10px",
                     }}
                     onAccept={() => {
+                        Cookies.set("cookieConsent", "accepted", { expires: 150 });
                         console.log("Cookie consent accepted");
                     }}
                     expires={150}
