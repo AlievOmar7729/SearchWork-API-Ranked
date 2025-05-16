@@ -3,7 +3,8 @@
  * @description Express сервер для ранжування резюме.
  * @author Aliiev Omar
  */
-
+const swaggerUi = require("swagger-ui-express");
+const swaggerDocument = require("./swagger.json");
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
@@ -177,6 +178,8 @@ app.post("/rank_resumes_date/", (req, res) => {
 /**
  * Запускає сервер на заданому порту.
  */
+
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });

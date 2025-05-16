@@ -1,0 +1,151 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Resume Ranking API",
+    "version": "1.0.0",
+    "description": "Мінімальна документація API для ранжування резюме на основі вакансії."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:8000",
+      "description": "Локальний сервер"
+    }
+  ],
+  "paths": {
+    "/rank_resumes_ai/": {
+      "post": {
+        "tags" : ["Ранжування"],
+        "summary": "Ранжування резюме за релевантністю до вакансії",
+        "description": "Ранжує резюме на основі TF-IDF та косинусної схожості.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "vacancy": {
+                    "type": "object",
+                    "properties": {
+                      "title": { "type": "string" },
+                      "description": { "type": "string" },
+                      "employment": { "type": "string" },
+                      "salary": { "type": "string" },
+                      "location": { "type": "string" }
+                    },
+                    "required": ["title", "description", "employment", "salary", "location"]
+                  },
+                  "resumes": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": { "type": "integer" },
+                        "education": { "type": "string" },
+                        "work_experience": { "type": "string" },
+                        "skills": { "type": "string" },
+                        "personal_qualities": { "type": "string" },
+                        "about_me": { "type": "string" },
+                        "date": { "type": "string", "format": "date" }
+                      },
+                      "required": ["id", "education", "work_experience", "skills", "personal_qualities", "about_me", "date"]
+                    }
+                  }
+                },
+                "required": ["vacancy", "resumes"]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Масив ранжованих резюме з оцінками релевантності",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": { "type": "integer" },
+                      "relevance_score": { "type": "number", "format": "float" },
+                      "relevance_percentage": { "type": "integer" }
+                    },
+                    "required": ["id", "relevance_score", "relevance_percentage"]
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Помилка сервера"
+          }
+        }
+      }
+    },
+    "/rank_resumes_date/": {
+      "post": {
+        "tags" : ["Ранжування"],
+        "summary": "Ранжування резюме за датою подання",
+        "description": "Повертає масив резюме, відсортований за датою від нових до старих.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "resumes": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": { "type": "integer" },
+                        "education": { "type": "string" },
+                        "work_experience": { "type": "string" },
+                        "skills": { "type": "string" },
+                        "personal_qualities": { "type": "string" },
+                        "about_me": { "type": "string" },
+                        "date": { "type": "string", "format": "date" }
+                      },
+                      "required": ["id", "education", "work_experience", "skills", "personal_qualities", "about_me", "date"]
+                    }
+                  }
+                },
+                "required": ["resumes"]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Відсортований масив резюме",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": { "type": "integer" },
+                      "education": { "type": "string" },
+                      "work_experience": { "type": "string" },
+                      "skills": { "type": "string" },
+                      "personal_qualities": { "type": "string" },
+                      "about_me": { "type": "string" },
+                      "date": { "type": "string", "format": "date" }
+                    },
+                    "required": ["id", "education", "work_experience", "skills", "personal_qualities", "about_me", "date"]
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Помилка сервера"
+          }
+        }
+      }
+    }
+  }
+}
